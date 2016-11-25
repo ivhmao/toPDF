@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+<f href="out.pdf"/>
+<fields>
+<field name="Text1">
+<value>1111111111</value>
+</field>
+<field name="Text10">
+<value/>
+</field>
+<field name="Text11">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+</field>
+<field name="Text12">
+<value/>
+</field>
+<field name="Text13">
+<field name="0">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+<field name="3">
+<value/>
+</field>
+<field name="4">
+<value/>
+</field>
+</field>
+<field name="1">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+<field name="3">
+<value/>
+</field>
+<field name="4">
+<value/>
+</field>
+</field>
+<field name="2">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+<field name="3">
+<value/>
+</field>
+<field name="4">
+<value/>
+</field>
+</field>
+</field>
+<field name="Text14">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+</field>
+</field>
+<field name="Text15">
+<value/>
+</field>
+<field name="Text16">
+<value/>
+</field>
+<field name="Text17">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+</field>
+<field name="Text18">
+<value/>
+</field>
+<field name="Text19">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+<field name="3">
+<value/>
+</field>
+</field>
+<field name="Text2">
+<value>222222222</value>
+</field>
+<field name="Text20">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+</field>
+<field name="Text21">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<value/>
+</field>
+<field name="3">
+<value/>
+</field>
+<field name="4">
+<value/>
+</field>
+</field>
+<field name="Text3">
+<value>15</value>
+</field>
+<field name="Text4">
+<value>декабря</value>
+</field>
+<field name="Text5">
+<value>ММВ-7-11/645@</value>
+</field>
+<field name="Text6">
+<value>333333333333333</value>
+</field>
+<field name="Text7">
+<value>4444</value>
+</field>
+<field name="Text8">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+<field name="2">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+</field>
+</field>
+<field name="Text9">
+<field name="0">
+<value/>
+</field>
+<field name="1">
+<value/>
+</field>
+</field>
+</fields>
+<ids original="C3DB97D09826574ED6C58179169BF0F0" modified="1B84595EBFB2F1C451336D3BCDFF8586"/>
+</xfdf>
